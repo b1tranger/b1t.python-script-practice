@@ -1,3 +1,4 @@
+  > related repo [Programming-Records](https://github.com/b1tranger/Programming-Records/)
 # DESCO Balance Bot Script
 
 ## Setting up Locally:
